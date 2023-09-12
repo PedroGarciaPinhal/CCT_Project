@@ -21,10 +21,10 @@ There is room for improvement, but it currently demonstrates the following featu
 
 ## Features
 
-- **User Registration and Authentication:** Members can create accounts and sign in.
-- **Space Listing:** Space owners can list coworking spaces with descriptions, photos, and pricing details.
-- **Booking System:** Members can easily browse available spaces and book their reservations.
-- **Admin Dashboard:** Employees can manage their listings in the profile page, while administrators have access to an admin dashboard for overall management.
+- **User Registration and Authentication:** Users can create accounts and sign in.
+- **Space Listing:** Space can list coworking spaces with descriptions, photos, and pricing details
+- **Booking System:** Users can easily browse available spaces and book their reservations in profile page.
+- **Admin Dashboard:** Administrators have access to an admin dashboard for overall management of users listings and reservations.
 
 ## Getting Started
 
