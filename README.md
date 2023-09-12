@@ -1,6 +1,6 @@
 # CCT Web App
 
-![cttdash](https://github.com/PedroGarciaPinhal/CCT_Project/assets/143652858/4f1ca664-e5a8-41d1-a62c-068538e6d610)
+
 
 ## Table of Contents
 
